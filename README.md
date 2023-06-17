@@ -5,17 +5,17 @@
 <br/>
 <p align="center"> 
 
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aman-s-20&show_icons=true&theme=aura"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anupam577&show_icons=true&theme=aura"/>
 </p>
 
 <br/>
 
 <p align="center"> 
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aman-s-20&theme=highcontrast"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=anupam577&theme=highcontrast"/>
 </p>
 
 <p align="center"> 
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-s-20&layout=compact&theme=aura"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupam577&layout=compact&theme=aura"/>
 </p>
 
 <br/>
